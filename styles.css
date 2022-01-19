@@ -1,0 +1,41 @@
+body{
+    background-image: url(../Servico/fundo.jpg);
+    background-size: cover;
+    background-position-y: -150px;
+    margin: 4;
+    padding: 4;
+}
+
+table th, td{
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-image: linear-gradient(to right, rgb(160, 154, 154), rgb(0, 0, 0), rgb(120, 129, 120) );
+    font-size: 150%;
+    
+}
+
+.legenda1{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   position: absolute;
+   top: 30%;
+   background-image: linear-gradient(to right, rgba(128, 128, 128, 0.342), rgba(0, 0, 0, 0.425));
+   border-radius: 15px;
+   left: 35%;
+    
+}
+
+.legenda2{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+
+
+
+
+
